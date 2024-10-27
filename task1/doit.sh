@@ -1,5 +1,5 @@
 #!/bin/sh
-source ~/Documents/iac/lab0-devtools/autumn/workspace/toolchain/tools/attach_usb.sh
+
 # cleanup
 rm -rf obj_dir
 rm -f sinegen.vcd
