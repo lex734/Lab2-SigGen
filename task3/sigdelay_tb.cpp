@@ -22,7 +22,7 @@ int main(int argc, char **argv, char **env) {
  
   // init Vbuddy
   if (vbdOpen()!=1) return(-1);
-  vbdHeader("L2T3:Delay");
+  vbdHeader("L2T3: Delay");
   //vbdSetMode(1);        // Flag mode set to one-shot
 
   // initialize simulation input 
